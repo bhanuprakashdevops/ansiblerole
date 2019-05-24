@@ -1,4 +1,4 @@
-# Ansible Role: Nginx
+# Ansible Role: Nginx2
 
 [![Build Status](https://travis-ci.org/geerlingguy/ansible-role-nginx.svg?branch=master)](https://travis-ci.org/geerlingguy/ansible-role-nginx)
 
